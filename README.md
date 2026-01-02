@@ -24,3 +24,6 @@ An AI platform that turns text prompts into functional websites instantly using 
 ## Structure
 - client/: React UI and site editor.
 - server/: API, Auth, and AI logic.
+
+## Live Preview
+Check out the live application here: https://ai-site-builder-six.vercel.app/
